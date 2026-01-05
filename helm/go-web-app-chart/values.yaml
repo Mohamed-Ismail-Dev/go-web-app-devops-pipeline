@@ -4,7 +4,7 @@ replicaCount: 1
 image:
   repository: mhdismail786/go-web-app
   pullPolicy: IfNotPresent
-  tag: "20711324439"
+  tag: "20711357695"
 
 ingress:
   enabled: false
